@@ -1,0 +1,20 @@
+Olá, {}!
+
+Aqui é o Fredson Aguiar, da equipe de Suporte do projeto Seleção de Talentos, da FGV.
+Fico feliz em comunicar o seu acesso a nossa plataforma, onde o curso será realizado.
+Por favor, considere atualizar a sua senha de usuário após o primeiro acesso ao site.
+
+Suas informações de acesso:
+    * usuário: {}
+    * senha: {}
+    * email: {}
+
+Você poderá acessar o conteúdo através do seguinte link:
+    * link de acesso: https://selecaotalentos.github.io/fgv-talentos-aluno/Home.html
+
+Seja bem vindo! Será uma grande honra tê-lo conosco nessa jornada.
+Desejo grande sucesso e bastante trabalho duro.
+
+Att.,
+Fredson Aguiar
+Suporte Talentos
